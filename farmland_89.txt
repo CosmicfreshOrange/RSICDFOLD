@@ -1,0 +1,5 @@
+each a piece of farmland is a rectangle
+each of the different colors, different crops
+a fast square land, some green, some in yellow
+many pieces of farmlands are together
+a fast square land, some green, some in yellow
